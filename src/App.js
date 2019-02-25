@@ -39,7 +39,8 @@ class App extends Component {
         </header>
 
         <main>
-          <Title content='LightSwitch.render()'/>
+          <Title content='Some Simple Title'/>
+          <LightSwitch/>
         </main>
       </div>
     );
